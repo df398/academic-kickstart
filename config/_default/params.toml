@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "df398@cam.ac.uk"
 phone = "(+44) 1223 336377"
-address = "Department of Chemistry, University of Cambridge,"<br>"Lensfield Road, CB2 1EW, UK"
+address = "Department of Chemistry, University of Cambridge,<br>Lensfield Road, CB2 1EW, UK"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
