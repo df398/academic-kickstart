@@ -3,5 +3,5 @@
 	url = https://github.com/gcushen/hugo-academic.git
 [submodule "public"]
 	path = public
-	url = https://github.com/df398/df398.github.io.git
+	url = https://github.com/df398/df398.github.io
 	branch = master
